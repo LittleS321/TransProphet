@@ -1,1 +1,1 @@
-# Sound Predictive Race Detection
+# Sound Predictive Transactional Atomicity Violation Detection
