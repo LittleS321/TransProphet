@@ -1,1 +1,1 @@
-# Sound Predictive Transactional Atomicity Violation Detection
+# Source code and dataset for paper review
